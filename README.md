@@ -12,7 +12,7 @@
 ### P4 (Teams and Drivers): This page will discuss the different challenges the drivers face, and how teams sign contracts for existing and new talents.
 ### P5 (Race Week): This page will discuss the various things that happen and may happen during a race, and the different procedures drivers and officials do. I would like to emphasize on the drama and time constraint for this page.
 ### P6 (Sources): This page will contain the list of all the sources used for the project.
-
+******
 #### Other Notes:
 #### - Each subpage has a menu at the side in the form of a circular figure representing a tire, which will expand upon mouse hover and show the other pages
 #### - The bottom of the pages will contain various information such as the author of the webpage.
